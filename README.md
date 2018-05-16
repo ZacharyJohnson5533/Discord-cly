@@ -1,2 +1,2 @@
 # Discord-cly
-A bare bones discord client made in pytho
+A bare bones discord client made in python
